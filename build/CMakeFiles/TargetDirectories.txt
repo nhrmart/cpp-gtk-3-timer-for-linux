@@ -1,0 +1,8 @@
+/home/nowshad/Gtk Apps/timer/build/CMakeFiles/timer.dir
+/home/nowshad/Gtk Apps/timer/build/CMakeFiles/compile_schemas.dir
+/home/nowshad/Gtk Apps/timer/build/CMakeFiles/edit_cache.dir
+/home/nowshad/Gtk Apps/timer/build/CMakeFiles/rebuild_cache.dir
+/home/nowshad/Gtk Apps/timer/build/CMakeFiles/list_install_components.dir
+/home/nowshad/Gtk Apps/timer/build/CMakeFiles/install.dir
+/home/nowshad/Gtk Apps/timer/build/CMakeFiles/install/local.dir
+/home/nowshad/Gtk Apps/timer/build/CMakeFiles/install/strip.dir
